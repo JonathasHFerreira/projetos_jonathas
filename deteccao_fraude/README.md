@@ -20,8 +20,7 @@ Aplicação de técnicas de amostragem — como subamostragem (undersampling), s
 
 Modelagem Preditiva (Treinamento e Validação):
 Divisão do conjunto de dados em subconjuntos de treino, validação e teste.
-Implementação de algoritmos de classificação (como Regressão Logística, Árvores de Decisão, Random Forest, XGBoost ou modelos equivalentes adequados ao problema).
-Validação cruzada (cross-validation) para garantir a robustez e a generalização dos modelos.
+Implementação de algoritmos de classificação.
 
 Avaliação de Desempenho:
 Utilização de métricas adequadas a problemas altamente desbalanceados, com foco especial na Área sob a Curva ROC (ROC-AUC), Precisão, Revocação (Recall), F1-Score e na análise da matriz de confusão para minimizar impactos de falsos alarmes.
